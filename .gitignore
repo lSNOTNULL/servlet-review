@@ -37,5 +37,8 @@ build/
 ### Mac OS ###
 .DS_Store
 
+### Sercret
+src/main/resources/.env
+
 ### .env
 src/main/resources/.env
